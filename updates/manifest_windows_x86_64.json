@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "product": "fuck_speed",
+  "channel": "alpha",
+  "target_os": "windows",
+  "target_arch": "x86_64",
+  "version": "0.1.0-alpha",
+  "build": 101,
+  "min_supported_version": "0.1.0-alpha",
+  "expires_at": 1820344332,
+  "payload": {
+    "url": "https://github.com/marwy/fuckspeed_release/releases/download/v0.1.0-alpha/fuck_speed.exe.zst",
+    "compression": "zstd",
+    "compressed_size": 17159721,
+    "compressed_blake3": "406acc689c000f8b6e311183e28e12b49edf2a0f9291995f044e0900d8cd93c1",
+    "uncompressed_size": 54053888,
+    "uncompressed_blake3": "bedf2a4634271a48ff9b809e63f8678cbb3f1455725c5df9ccc8d2c7ef3dbae7"
+  },
+  "release_notes": {
+    "en": "fuck_speed v0.1.0-alpha — alpha update",
+    "ru": "fuck_speed v0.1.0-alpha — альфа-обновление"
+  },
+  "signature_ed25519": "d36b33e5ff0a35e948b63df3d5be588740cade9ead6185ea7b83a54c00d10f7cbb8397e5b5de42abc8555c7ee43533ad53ebc358d71b8444e5ae1a4eae08780d"
+}
