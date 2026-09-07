@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "product": "fuck_speed",
+  "product": "f4xp1",
   "channel": "alpha",
   "target_os": "windows",
   "target_arch": "x86_64",
   "version": "0.1.0-alpha",
   "build": 101,
   "min_supported_version": "0.1.0-alpha",
-  "expires_at": 1820344332,
+  "expires_at": 1820354678,
   "payload": {
     "url": "https://github.com/marwy/fuckspeed_release/releases/download/v0.1.0-alpha/fuck_speed.exe.zst",
     "compression": "zstd",
@@ -20,5 +20,5 @@
     "en": "fuck_speed v0.1.0-alpha — alpha update",
     "ru": "fuck_speed v0.1.0-alpha — альфа-обновление"
   },
-  "signature_ed25519": "d36b33e5ff0a35e948b63df3d5be588740cade9ead6185ea7b83a54c00d10f7cbb8397e5b5de42abc8555c7ee43533ad53ebc358d71b8444e5ae1a4eae08780d"
+  "signature_ed25519": "34a74b7d154cb651601fd9b485312b2341ec5eaabeddbf42e27d49d285ef8beadec294d0eebce68a6034dac7070fff964ad581ad7b10c21ac07d4cb78d020805"
 }

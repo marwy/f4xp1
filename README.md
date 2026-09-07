@@ -1,4 +1,4 @@
-# fuck_speed — Официальные релизы
+# f4xp1 — Официальные релизы
 
 > Высокопроизводительный безопасный мессенджер нового поколения (QUIC, Zero-Knowledge Protection, Terminal Noir UI).
 
@@ -8,8 +8,8 @@
 
 | Версия | Ссылка | Размер | Описание |
 |---|---|---|---|
-| **Windows Установщик** | [⬇️ `fuck_speed_setup_v0.1.0-alpha_x86_64.exe`](https://github.com/marwy/fuckspeed_release/releases/latest/download/fuck_speed_setup_v0.1.0-alpha_x86_64.exe) | **16.47 MB** | Мастер установки, ярлыки, автозапуск (не требует прав администратора) |
-| **Портативная версия** | [⬇️ `fuck_speed_portable_v0.1.0-alpha_x86_64.zip`](https://github.com/marwy/fuckspeed_release/releases/latest/download/fuck_speed_portable_v0.1.0-alpha_x86_64.zip) | **20.36 MB** | Распакуй и запусти (все данные и настройки изолированы в папке `portable_data/`) |
+| **Windows Установщик** | [⬇️ `fuck_speed_setup_v0.1.0-alpha_x86_64.exe`](https://github.com/marwy/f4xp1_release/releases/latest/download/fuck_speed_setup_v0.1.0-alpha_x86_64.exe) | **16.47 MB** | Мастер установки, ярлыки, автозапуск (не требует прав администратора) |
+| **Портативная версия** | [⬇️ `fuck_speed_portable_v0.1.0-alpha_x86_64.zip`](https://github.com/marwy/f4xp1_release/releases/latest/download/fuck_speed_portable_v0.1.0-alpha_x86_64.zip) | **20.36 MB** | Распакуй и запусти (все данные и настройки изолированы в папке `portable_data/`) |
 
 ---
 
@@ -25,8 +25,8 @@
 ## 🔐 Контрольные суммы (v0.1.0-alpha, сборка 101)
 
 ```text
-b2bcfde79b931bfe1098f7f0c9c005dd2adedc99dc0d3a3b5edfaeabb83cbf4d *fuck_speed_setup_v0.1.0-alpha_x86_64.exe
-b96e5ce3be99f3e6e4d3efcdcacca0ec0a7bfdf961838fa8d7a57ac0e6702f51 *fuck_speed_portable_v0.1.0-alpha_x86_64.zip
+8b05c4b3519d1f99374222986cb9d872d4736e1b001395d9a0e0d4ecff5b5a4e *fuck_speed_setup_v0.1.0-alpha_x86_64.exe
+5174192c9c6b923594de0e56e3a93e274d0ca71c458cbeaa3b6e474b0fcf64df *fuck_speed_portable_v0.1.0-alpha_x86_64.zip
 9030daa8c150afbb626cf14b3ea211820638cc4f7bdc92b20f23748c0bc6e6cf *fuck_speed.exe.zst
 ```
 
